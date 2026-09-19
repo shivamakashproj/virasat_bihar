@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+    <!-- Dark brown background -->
+    <rect width="400" height="400" rx="40" fill="#3e2723"/>
+    
+    <!-- Golden Border -->
+    <rect x="15" y="15" width="370" height="370" rx="30" fill="none" stroke="#b8860b" stroke-width="6"/>
+    <rect x="25" y="25" width="350" height="350" rx="20" fill="none" stroke="#b8860b" stroke-width="2" opacity="0.6"/>
+    
+    <!-- Stupa Motif -->
+    <g transform="translate(0, -30)">
+        <!-- Base -->
+        <path d="M 80 280 L 320 280 L 300 220 L 100 220 Z" fill="#b8860b"/>
+        <!-- Middle -->
+        <path d="M 110 220 L 290 220 L 270 150 L 130 150 Z" fill="#b8860b"/>
+        <!-- Dome base -->
+        <path d="M 140 150 L 260 150 L 240 100 L 160 100 Z" fill="#b8860b"/>
+        <!-- Top Spire -->
+        <path d="M 190 100 L 210 100 L 205 40 L 195 40 Z" fill="#b8860b"/>
+        <!-- Sun/Halo behind spire -->
+        <circle cx="200" cy="70" r="40" fill="none" stroke="#b8860b" stroke-width="4" opacity="0.5"/>
+    </g>
+    
+    <!-- Text -->
+    <text x="200" y="320" font-family="Georgia, serif" font-size="38" fill="#b8860b" text-anchor="middle" font-weight="bold">VIRASAT</text>
+    <text x="200" y="360" font-family="Arial, sans-serif" font-size="24" fill="#f7f3e8" text-anchor="middle" letter-spacing="6">BIHAR</text>
+</svg>
