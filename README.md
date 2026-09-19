@@ -9,6 +9,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Responsive-Design-4CAF50?style=for-the-badge)
 
+**🔗 Live Site:** [shivamakashproj.github.io/virasat_bihar](https://shivamakashproj.github.io/virasat_bihar/)
+
 </div>
 
 ---
